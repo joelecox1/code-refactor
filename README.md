@@ -1,6 +1,6 @@
 # Horiseon
 
-An online markering company garanteeing the continued success of clients and their busniesses.
+An online marketing company garanteeing the continued success of clients and their busniesses.
 
 ## Description
 
