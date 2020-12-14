@@ -6,7 +6,7 @@ An online marketing company garanteeing the continued success of clients and the
 
 This website shows the main functionalities of the company and the benefits of using their services.
 
-## Cite Preview
+## Site Preview
 
 ![image](https://user-images.githubusercontent.com/75094592/102034980-ef9db680-3d84-11eb-90a0-9e7608f91aab.png)
 
