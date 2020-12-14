@@ -8,8 +8,7 @@ This website shows the main functionalities of the company and the benefits of u
 
 ## Cite Preview
 
-![image](https://user-images.githubusercontent.com/75094592/102033567-6638b500-3d81-11eb-825e-4e98bec6fc2d.png)
-
+![image](https://user-images.githubusercontent.com/75094592/102034980-ef9db680-3d84-11eb-90a0-9e7608f91aab.png)
 
 ### Link to deployed application
 
